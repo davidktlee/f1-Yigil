@@ -32,7 +32,6 @@
 | :--------: | :-------------------------------------------: |
 |    언어    | [TypeScript](https://www.typescriptlang.org/) |
 | 프레임워크 | [Next.js 14(App Router)](https://nextjs.org/) |
-
 | 스타일링 | [Tailwind CSS](https://tailwindcss.com/) |
 | 지도 | [Naver Maps API](https://www.ncloud.com/product/applicationService/maps) |
 | 스키마 검증 | [Zod](https://zod.dev/) |
